@@ -1,0 +1,11 @@
+F:\label\Label\Label\bin\Debug\Label.exe
+F:\label\Label\Label\bin\Debug\Label.pdb
+F:\label\Label\Label\obj\Debug\ResolveAssemblyReference.cache
+F:\label\Label\Label\obj\Debug\Label.Form1.resources
+F:\label\Label\Label\obj\Debug\Label.Properties.Resources.resources
+F:\label\Label\Label\obj\Debug\Label.csproj.GenerateResource.Cache
+F:\label\Label\Label\obj\Debug\Label.exe
+F:\label\Label\Label\obj\Debug\Label.pdb
+F:\label\Label\Label\obj\Debug\Label.New_Entry.resources
+F:\label\Label\Label\bin\Debug\Label.exe.config
+F:\label\Label\Label\obj\Debug\Label.Settings.resources
